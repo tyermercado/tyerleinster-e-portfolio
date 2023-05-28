@@ -36,9 +36,7 @@ const Footer = () => {
           <FaTwitter />
         </a>
       </div>
-      <div className="footer__copyright">
-        <small>&copy; Egator Tutorials. All rights reserved.</small>
-      </div>
+    
     </footer>
   );
 };
