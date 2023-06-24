@@ -33,8 +33,10 @@ const About = () => {
             </article>
           </div> */}
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo consequatur accusantium explicabo soluta ab est tempora labore exercitationem amet! Ab inventore dignissimos impedit, nulla aperiam saepe explicabo doloribus amet dolore assumenda minima beatae suscipit incidunt exercitationem, nam eaque at consequuntur nobis optio ex! Aliquid voluptatem laborum dolorum? Deserunt, id ipsam.
+          I'm <b>Tyer Leinster G. Mercado</b>, a 22-year-old web developer from the Philippines. Technology has always fascinated me, and I have a deep passion for all things related to programming and web development.
+          As a fresh graduate, I have a solid foundation in programming, but I consider myself to be at the beginning of my journey. I have learned the basics of several programming languages and have a good understanding of fundamental concepts. However, I'm aware that there is so much more to learn and explore in this vast field.
           </p>
+          <p>My problem-solving skills, attention to detail, and strong work ethic are qualities that I bring to the table. I'm a team player and value effective collaboration and communication. I believe that working alongside experienced individuals will not only enhance my technical skills but also nurture my professional growth.</p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
           </a>

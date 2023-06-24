@@ -1,8 +1,10 @@
 import React from "react";
 import { useState } from "react";
 import "./nav.css";
-import { BiHome, BiUser, BiBook, BiMessageSquareDetail } from "react-icons/bi";
+import { BiHome, BiUser, BiCodeAlt, BiMessageSquareDetail } from "react-icons/bi";
 import { AiOutlineFolderOpen } from "react-icons/ai";
+
+
 
 const Nav = () => {
   const [activeNav, setActiveNav] = useState("#home");
@@ -28,7 +30,7 @@ const Nav = () => {
         onClick={() => setActiveNav("#experience")}
         className={activeNav === "#experience" ? "active" : ""}
       >
-        <BiBook />
+        <BiCodeAlt  />
       </a>
       <a
         href="#portfolio"

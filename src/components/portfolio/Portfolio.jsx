@@ -18,16 +18,16 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "E-Commerce",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores architecto earum iste quasi obcaecati a dolor, perferendis quis praesentium in nam voluptas, sit qui harum quisquam quam nobis nisi eveniet beatae alias natus! Nihil, eligendi laborum enim maiores culpa atque quas, asperiores vitae dicta odio qui unde quia ut voluptas." , 
+    title: "G-Soles",
+    description: "This E-Commerce website offers a diverse selection of resell sneakers, meticulously curated to ensure both exceptional quality and style. From limited editions to collaborations and classic favorites, customers can explore a wide range of authentic, genuine footwear options.It was our final project in our summer class." , 
     github: "https://github.com/tyermercado/sneakers-eCommerce",
   },
   {
     id: 3,
     image: IMG3,
     title: "E-Commerce featuring a bicycle store",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores architecto earum iste quasi obcaecati a dolor, perferendis quis praesentium in nam voluptas, sit qui harum quisquam quam nobis nisi eveniet beatae alias natus! Nihil, eligendi laborum enim maiores culpa atque quas, asperiores vitae dicta odio qui unde quia ut voluptas." , 
-    github: "https://github.com",
+    description: "The purpose of this system is to help the user find a new model of bicycle parts and accessories. It was our final project in one of our subjects in school" , 
+    github: "https://github.com/tyermercado/bicycleEcommerce",
   },
   // {
   //   id: 4,
