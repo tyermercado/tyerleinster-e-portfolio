@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tyerleinster-e-portfolio/static/css/main.140d83b2.css",
+    "main.js": "/tyerleinster-e-portfolio/static/js/main.7e0da995.js",
+    "static/media/Library.png": "/tyerleinster-e-portfolio/static/media/Library.faabe1816de7e4d4cff5.png",
+    "static/media/cv.pdf": "/tyerleinster-e-portfolio/static/media/cv.9cb3c548eaf4e53ae8cd.pdf",
+    "static/media/Bicycle.png": "/tyerleinster-e-portfolio/static/media/Bicycle.9f527427f708c1058d0e.png",
+    "static/media/sneakers_ecommerce.png": "/tyerleinster-e-portfolio/static/media/sneakers_ecommerce.938ab2e45637aa420d07.png",
+    "static/media/tyer.png": "/tyerleinster-e-portfolio/static/media/tyer.7f0a84a6f31f84ef77c3.png",
+    "static/media/home.jpg": "/tyerleinster-e-portfolio/static/media/home.2e1ee389bb3d187d34a5.jpg",
+    "index.html": "/tyerleinster-e-portfolio/index.html",
+    "main.140d83b2.css.map": "/tyerleinster-e-portfolio/static/css/main.140d83b2.css.map",
+    "main.7e0da995.js.map": "/tyerleinster-e-portfolio/static/js/main.7e0da995.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.140d83b2.css",
+    "static/js/main.7e0da995.js"
+  ]
+}
